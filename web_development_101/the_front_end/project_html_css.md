@@ -1737,6 +1737,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [solinari's solution (Difficult)](https://github.com/solinari1/google-search-results) - [View in Browser](https://solinari1.github.io/google-search-results)
 * [Paritosh's solution (Difficult)](https://github.com/Paritosh97/google-homepage) - [View in Browser](https://paritosh97.github.io/google-homepage/)
 * [bwkrayb's solution (Easy)](https://github.com/bwkrayb/google-homepage) - [View in Browser](https://bwkrayb.github.io/google-homepage/)
+* [digthedill's solution (Easy)] https://github.com/digthedill/goggle-homepage [View in Browser](https://digthedill.github.io/goggle-homepage/)
 * [nduchene3's solution (Easy)](https://github.com/nduchene3/google-homepage) - [View in Browser](https://nduchene3.github.io/google-homepage/)
 * [Martin's solution (Easy)](https://binauralewe.github.io/google-homepage) - [View in Browser](https://binauralewe.github.io/google-homepage)
 * [marleybrush's solution (Easy)](https://github.com/marleybrush/google-homepage) - [View in Browser](https://marleybrush.github.io/google-homepage/)
